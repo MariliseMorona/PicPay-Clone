@@ -1,4 +1,4 @@
-package com.example.app_picpayclone.data.transacao
+package com.example.app_picpayclone.data
 
 data class Pageable(
     val offset: Int = 0,

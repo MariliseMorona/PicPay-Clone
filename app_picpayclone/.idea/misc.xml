@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/drawable/circulo_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/dashboard_fragment.xml" value="0.1" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/home_fragment.xml" value="0.1" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/item_contato.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/item_transacao.xml" value="0.1" />
         <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/login_fragment.xml" value="0.1" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/main_activity.xml" value="0.12183383991894631" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/notifications_fragment.xml" value="0.1358695652173913" />
+        <entry key="..\:/Documents/PicPayClone/app_picpayclone/app/src/main/res/layout/transacao_fragment.xml" value="0.1" />
       </map>
     </option>
   </component>

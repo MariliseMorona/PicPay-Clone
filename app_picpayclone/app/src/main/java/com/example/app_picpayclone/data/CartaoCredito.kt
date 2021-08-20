@@ -1,4 +1,4 @@
-package com.example.app_picpayclone.data.transacao
+package com.example.app_picpayclone.data
 
 data class CartaoCredito(
     val bandeira: BandeiraCartao = BandeiraCartao.VISA,
